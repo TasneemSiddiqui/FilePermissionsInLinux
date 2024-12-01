@@ -38,4 +38,4 @@ The files and directories in the projects directory belong to the researcher2 us
 ![Linux04](https://github.com/user-attachments/assets/d0ffd096-c68e-4bb1-bb84-e3a7e678701f)
  
 <h2>Summary</h2>
-Using the Linux Bash Shell, this document outlined how to execute basic commands related to examining file and directory permissions, change permissions on files (including hidden files), and change permissions on directories. This enhances the security of the organization by using the principle of least privilege and only granting only minimal access and authorization required to complete a task or function.
+In this assignment, I used the Linux Bash Shell to execute basic commands related to examining file and directory permissions. I also changed permissions on hidden and non hidden files, and changed permissions on directories. By granting minimal access and authorization required to complete a task or function, we can ensure that security of the organization is enhanced.
